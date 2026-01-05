@@ -16,14 +16,14 @@ This script creates a contact and a company in HubSpot and links the contact to 
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone https://github.com/leonardKleber/coding-challenge
+cd coding-challenge
 ```
 
 ### 2. Create and activate a virtual environment (recommended)
 ```bash
 python -m venv venv
-source venv/binactivate      # macOS / Linux
+source venv/bin/activate      # macOS / Linux
 venv\Scripts\activate        # Windows
 ```
 
